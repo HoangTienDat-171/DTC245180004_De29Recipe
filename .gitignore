@@ -1,0 +1,22 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Backups
+backups/
+*.sql.bak
+
+# Logs
+*.log
+
+# Screenshots
+screenshots/
+
+# Editor
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
